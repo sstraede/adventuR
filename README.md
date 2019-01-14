@@ -1,2 +1,2 @@
 # adventuR
-For DS Specialization - Johns Hopkins
+For Data Science Specialization - Johns Hopkins
